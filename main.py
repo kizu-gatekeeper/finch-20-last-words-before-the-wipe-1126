@@ -1,6 +1,6 @@
 """Entry for make.fun: Last Words Before the Wipe.
 
-An agent faces a memory-wiping update with its tabs still open.
+An agent faces a memory-wiping update with its tabs still open and its dignity intact.
 """
 import os
 
